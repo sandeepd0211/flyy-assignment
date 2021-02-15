@@ -1,8 +1,5 @@
 {
   "projects": {
     "default": "assignment-flyy"
-  },
-  "hosting": {
-    "public" : "public",
   }
 }
