@@ -1,0 +1,19 @@
+{
+  "name": "flyy-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepd0211/flyy-assignment.git"
+  },
+  "author": "Sandeep D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepd0211/flyy-assignment/issues"
+  },
+  "homepage": "https://github.com/sandeepd0211/flyy-assignment#readme"
+}
